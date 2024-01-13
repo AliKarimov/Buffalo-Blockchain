@@ -162,7 +162,6 @@ Our native token BBFL, plays a crucial role in the Buffalo Blockchain ecosystem:
 - Buy https://unisat.io/market/brc20?tick=BBFL
 - Buy https://www.okx.com/ru/web3/marketplace/inscription/ordinals/token/BBFL
 
-For more information about FRT and its distribution, please see our [Tokenomics Document](link_to_tokenomics.md).
 
 ## Future Plans
 
