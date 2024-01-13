@@ -249,7 +249,7 @@ Fortuna Blockchain is not just another blockchain project; it's a groundbreaking
 
 
 Advantages:
-1.	Decentralization: Fortuna Blockchain offers a robust, decentralized platform, eliminating the need for intermediaries and ensuring that power rests in the hands of the community.
+1.	Decentralization: Buffalo Blockchain offers a robust, decentralized platform, eliminating the need for intermediaries and ensuring that power rests in the hands of the community.
 2.	Community-Driven Development: The architecture allows for active community involvement, from decision-making to the execution of new features, ensuring that the project continuously evolves according to user needs.
 3.	Tokenomics: Our well-thought-out tokenomics ensures incentives for all stakeholders, from miners to marketers, enhancing the project's long-term sustainability.
 4.	Future Expansion: Plans for interoperability through swaps and bridges with different blockchains are in place, guaranteeing that Fortuna will remain versatile and adaptive.
