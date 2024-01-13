@@ -1,8 +1,8 @@
 # 
 # A decentralized Buffalo system powered by blockchain.
 
+![Название изображения](ссылка_на_изображение) <!-- Размер = 200x200 -->
 
-![BBFL BRC20](https://github.com/AliKarimov/Buffalo-Blockchain/assets/49026670/f5f94d69-4462-4a08-a96e-155c67b35dca){: width="200" height="200"}
 
 
 
