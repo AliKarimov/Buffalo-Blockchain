@@ -116,7 +116,7 @@ Card Selection: Each player selects a card (ticket) from the available pool.
 Card Structure: Each card contains 18 unique digits, arranged in three rows. Each row contains 6 digits.
 Sample Card
 
-![image](https://github.com/AliKarimov/buffalo.blockchain/assets/49026670/7a1e6f78-7206-445d-bf25-5ba9759bd4e7)
+
 
  
 Note: One of the digits in each card will be colored red (bonus)
