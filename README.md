@@ -1,5 +1,5 @@
 # 
-# A decentralized Buffalo system powered by blockchain.
+# A decentralized Buffalo system powered by blockchain Bitcoin.
 
 Buffalo Blockchain proudly announces its official launch on the Bitcoin mainnet. Leveraging the revolutionary BRC20 standard, we have successfully created a token poised to be a cornerstone in constructing a decentralized blockchain platform. This platform is strategically designed to revolutionize both the financial and gaming sectors, aiming to encompass the entirety of these dynamic industries.
 
