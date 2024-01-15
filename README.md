@@ -39,6 +39,7 @@ What is Buffalo Blockchain?
 Buffalo Blockchain is an avant-garde, decentralized platform that fuses the world of blockchain technology with lottery gaming and financial investment opportunities. Fortuna aims to redefine the conventional gaming industry by establishing an ecosystem where transparency, fairness, and unlimited liquidity are not just buzzwords but a reality for every user.
 
 **Mission**
+"At Buffalo Blockchain, our mission is to revolutionize the digital landscape by leveraging blockchain technology. We are committed to creating a decentralized ecosystem that promotes financial inclusivity, security, and innovation. Through community collaboration and cutting-edge solutions, Buffalo Blockchain aims to redefine the future of decentralized finance, making it accessible and beneficial for everyone."
 Our mission is to provide unlimited liquidity for all users. In traditional financial and gaming systems, liquidity often remains in the hands of a few. Buffalo intends to democratize this by creating an open and decentralized network where liquidity flows freely. By breaking down barriers and eliminating middlemen, we enable everyone to participate in a fair and financially rewarding ecosystem.
 
 **Vision**
