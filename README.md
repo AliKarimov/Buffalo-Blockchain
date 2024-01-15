@@ -183,8 +183,11 @@ For a comprehensive breakdown of our financial projections, please see our [Fina
 
 We plan to conduct an ICO with the following details:
 
-- ICO Price: $X per BBFL - BRC20
-- Date: [Insert Date]
+- ICO Price: $0.01 per BBFL - BRC20
+- Deploy Time
+12/29/2023, 5:42:32 AM
+Completed Time
+12/29/2023, 8:13:33 AM
 - Hard Cap: $X million
 - Soft Cap: $X million
 
