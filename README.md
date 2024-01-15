@@ -34,10 +34,6 @@ As we embark on this groundbreaking venture, we invite stakeholders, developers,
 
 To get started with Buffalo Blockchain, follow these steps:
 
-
-For more detailed instructions, please refer to our [Installation Guide](link_to_installation_guide.md).
-
-
 ## Introduction
 What is Buffalo Blockchain?
 Buffalo Blockchain is an avant-garde, decentralized platform that fuses the world of blockchain technology with lottery gaming and financial investment opportunities. Fortuna aims to redefine the conventional gaming industry by establishing an ecosystem where transparency, fairness, and unlimited liquidity are not just buzzwords but a reality for every user.
@@ -89,8 +85,6 @@ Here are some basic usage instructions for Buffalo Blockchain:
 - Follow the game mechanics and rules to increase your chances of winning.
 - Engage with the community, vote on game features, and participate in decision-making.
 
-For more information on how to use Fortuna Blockchain, please visit our [User Guide](link_to_user_guide.md).
-
 ## Game Mechanics
 
 Fortuna Blockchain offers a unique and exciting gaming experience. Here's how it works:
@@ -101,7 +95,6 @@ Fortuna Blockchain offers a unique and exciting gaming experience. Here's how it
 - Random numbers are drawn, and players mark their tickets.
 - The first player to complete one of the perpendicular lines wins.
 
-For a detailed explanation of the game mechanics, please see our [Game Mechanics Guide](link_to_game_mechanics.md).
 
 ## Rules of the Game on the Buffalo Blockchain
 1. Game Attributes
@@ -110,15 +103,11 @@ For a detailed explanation of the game mechanics, please see our [Game Mechanics
 •	Numbers Barrels: These are 90 individual barrels, each with a unique number ranging from 1 to 90.
 
 
-
 **Game Conditions**
 Card Selection: Each player selects a card (ticket) from the available pool.
 Card Structure: Each card contains 18 unique digits, arranged in three rows. Each row contains 6 digits.
 Sample Card
 
-
-
- 
 Note: One of the digits in each card will be colored red (bonus)
 
 
@@ -150,8 +139,6 @@ Note: One of the digits in each card will be colored red (bonus)
 This innovative approach ensures not only excitement and fairness but also integrates the benefits of blockchain to enhance trust and community participation.
 
 
-
-For details on how you can get involved and make your voice heard, visit our [Community Engagement Guide](link_to_community_engagement.md).
 
 ## Tokenomics
 
@@ -191,7 +178,7 @@ Completed Time
 - Hard Cap: $X million
 - Soft Cap: $X million
 
-Stay informed about our ICO by visiting our [ICO Details Page](link_to_ico_details.md).
+Stay informed about our ICO by visiting our [ICO Details Page]([link_to_ico_details.md](https://unisat.io/market/brc20?tick=BBFL)).
 
 ## Risk Analysis
 
@@ -201,8 +188,7 @@ We understand that every project involves risks. Here is an analysis of potentia
 - Security risks
 - Regulatory risks
 - Regulatory compliance
-- 
-To learn more about the risks associated with Fortuna Blockchain, please review our [Risk Analysis](link_to_risk_analysis.md).
+  
 
 ## Legal Considerations
 
