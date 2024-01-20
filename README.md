@@ -146,7 +146,8 @@ This innovative approach ensures not only excitement and fairness but also integ
 Our native token BBFL, plays a crucial role in the Buffalo Blockchain ecosystem:
 
 - Total supply: 210,000,000 BBFL
-- Liquidity: 100%
+- Liquidity: 91%
+- Developers 9%
 - Buy https://unisat.io/market/brc20?tick=BBFL
 - Buy https://www.okx.com/ru/web3/marketplace/inscription/ordinals/token/BBFL
 
