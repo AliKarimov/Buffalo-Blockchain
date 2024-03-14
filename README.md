@@ -196,7 +196,7 @@ We understand that every project involves risks. Here is an analysis of potentia
 
 ## Legal Considerations
 
-Fortuna Blockchain complies with all relevant regulations. However, there are legal considerations to keep in mind:
+Buffalo Blockchain complies with all relevant regulations. However, there are legal considerations to keep in mind:
 
 Regulatory Compliance
 •	Operates under host country's laws; investors must verify eligibility and tax implications.
@@ -247,7 +247,7 @@ Advantages:
 4.	Future Expansion: Plans for interoperability through swaps and bridges with different blockchains are in place, guaranteeing that Fortuna will remain versatile and adaptive.
 5.	Transparency and Anonymity: Our open-source commitment ensures transparency while protecting the identities of our key members and contributors, maintaining the project's ethos and vision for the future.
 
-Fortuna Blockchain is more than a platform; it's a step toward the future of decentralized finance and resource management. We invite everyone to participate in shaping this exciting venture.
+Buffalo Blockchain is more than a platform; it's a step toward the future of decentralized finance and resource management. We invite everyone to participate in shaping this exciting venture.
 
 References
 In the creation of Fortuna Blockchain and this whitepaper, we've relied on a range of resources that include academic papers, market reports, and existing blockchain projects to validate our business model, tokenomics, and technological infrastructure. Some key references are:
