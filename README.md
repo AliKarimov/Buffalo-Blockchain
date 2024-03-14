@@ -236,7 +236,7 @@ Open-Source Commitment
 Our project is built on the principles of decentralization and community ownership. The core team, while starting this project, will step back over time to let the community govern and upgrade the network. Our source code will be made open-source, ensuring transparency and longevity for future generations.
 
 Conclusion
-Fortuna Blockchain is not just another blockchain project; it's a groundbreaking ecosystem aiming to democratize resource management and financial opportunities. We have identified significant gaps in the existing market and designed a decentralized, transparent platform that goes far beyond simple transactions. Our platform brings unprecedented liquidity and fair management of resources, setting the stage for a revolution in the financial sphere.
+Buffalo Blockchain is not just another blockchain project; it's a groundbreaking ecosystem aiming to democratize resource management and financial opportunities. We have identified significant gaps in the existing market and designed a decentralized, transparent platform that goes far beyond simple transactions. Our platform brings unprecedented liquidity and fair management of resources, setting the stage for a revolution in the financial sphere.
 
 
 
