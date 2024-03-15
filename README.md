@@ -1,6 +1,5 @@
 # ![Logo Buffalo (1)](https://github.com/AliKarimov/Buffalo-Blockchain/assets/49026670/0b2af1fb-f6a4-413c-a89c-14136cf97d32)
 
-![Uploading Logo Buffalo (1).png…]()
 
 Buffalo Blockchain White Paper.
 # A decentralized Buffalo system powered by blockchain Bitcoin. 
